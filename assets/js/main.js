@@ -1,9 +1,9 @@
-   // 呀，被你找到惹，没错我就是在console动了手脚（不要打我yayayay）
+   // 呀，被你找到惹，没错我就是在console动了手脚（不要打我yayayay~）
   // console输出
-  console.log("\n %c photshop online server support %c by XiaoMouz http://mou.best \n",
+  console.log("\n %c page deploy %c by XiaoMouz http://mou.best \n",
   "color:#1C86EE;background:#eee;padding:5px 0;", "color:#fff;background:#1E90FF;padding:5px 0;");
 console.log("%c ",
-  "background:url(http://blog.mou.best/picture/touxiang2.png) no-repeat center;background-size:cover;padding-left:100%;padding-bottom:55%;overflow:hidden;border-radius:10px;margin:5px 0"
+  "background:url(https://s1.ax1x.com/2020/07/27/ai7bfP.jpg) no-repeat center;background-size:cover;padding-left:100%;padding-bottom:55%;overflow:hidden;border-radius:10px;margin:5px 0"
 );
 
 /*
