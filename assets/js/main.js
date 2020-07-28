@@ -3,7 +3,7 @@
   console.log("\n %c page deploy %c by XiaoMouz http://mou.best \n",
   "color:#1C86EE;background:#eee;padding:5px 0;", "color:#fff;background:#1E90FF;padding:5px 0;");
 console.log("%c ",
-  "background:url(https://s1.ax1x.com/2020/07/28/aASpbq.png) no-repeat center;background-size:cover;padding-left:100%;padding-bottom:55%;overflow:hidden;border-radius:10px;margin:5px 0"
+  "background:url(http://nfpic.cf/images/2020/07/28/favicon.png) no-repeat center;background-size:cover;padding-left:100%;padding-bottom:55%;overflow:hidden;border-radius:10px;margin:5px 0"
 );
 
 /*
