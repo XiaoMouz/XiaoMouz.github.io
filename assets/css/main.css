@@ -1,6 +1,13 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
+#two{
+	background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+	url('/images/element/blogBanner.jpg') 
+	no-repeat 0% 20%/ cover;
+	
+}
+
 /*
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
@@ -3380,7 +3387,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("https://gitee.com/xiaomouz/xiaomouz/raw/master/upload/images/94d62860b46d5.jpg");
+		background-image: url("/images/banner.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3415,7 +3422,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.65;
 			position: absolute;
 			top: 0;
 			width: 100%;
